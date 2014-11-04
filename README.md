@@ -1,7 +1,7 @@
 Quick-Style
 ===========
 
-Dutch translation of the Quick Style extension by Pico
+Dutch translation of the Quick Style extension by Pico88
 
 Installatie
 ===========
