@@ -1,7 +1,7 @@
 Quick-Style
 ===========
 
-Dutch translation of the Quick Style extension by Pico88
+Dutch translation of the Auto Database Backup extension by Pico88
 
 Installatie
 ===========
