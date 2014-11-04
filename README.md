@@ -1,4 +1,4 @@
-Quick-Style
+Auto-Database-Backup
 ===========
 
 Dutch translation of the Auto Database Backup extension by Pico88
